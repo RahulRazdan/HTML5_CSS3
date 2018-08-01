@@ -380,6 +380,7 @@ header {
     text-decoration: none;
     border-bottom : 1px solid #e67e22;
     color: #e67e22;
+    font-size:16px;
     padding-bottom: 1px;
     -webkit-transition: border-bottom 0.2s , color 0.2s;
     transition: border-bottom 0.2s , color 0.2s;
