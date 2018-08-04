@@ -163,7 +163,7 @@ input[type=submit]:active {
     margin-top: 18px;
 }
 
-.sticky .main-nav lia:link,
+.sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
     padding: 16px 0;
     color:#555;
